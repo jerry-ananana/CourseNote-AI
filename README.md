@@ -1,0 +1,2 @@
+# CourseNote-AI
+CourseNote-AI
